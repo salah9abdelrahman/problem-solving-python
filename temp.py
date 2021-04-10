@@ -1,3 +1,7 @@
-s = "(name)is(age)yearsoldhi(said)"
-s[0:3] = "haha"
-print(s)
+x = input()
+print(x * 2)
+
+result = []
+result.insert(3, 1)
+
+print(result)
