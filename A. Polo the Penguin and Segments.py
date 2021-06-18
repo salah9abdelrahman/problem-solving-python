@@ -1,4 +1,6 @@
 """
+http://codeforces.com/contest/289/problem/A
+
 2 3
 1 2
 3 4
