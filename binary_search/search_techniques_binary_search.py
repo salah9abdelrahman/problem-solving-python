@@ -24,7 +24,7 @@ def BS_last(start,  end,  value):
     while start < end:
         # mid = (start + end) // 2
         mid = start + (end - start) // 2
-        if arr[mid] < value:
+        if arr[mid] <= value:
             start = mid + 1
         elif arr[mid] > value:
             end = mid - 1
