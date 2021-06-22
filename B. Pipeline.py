@@ -4,7 +4,6 @@ http://codeforces.com/contest/287/problem/B
 
 
 def sum(num):
-    # num -= 1
     return (num * (num + 1)) // 2
 
 
