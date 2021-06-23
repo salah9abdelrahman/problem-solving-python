@@ -1,3 +1,6 @@
+"""
+https://codeforces.com/contest/102/problem/B
+"""
 n = input()
 result = 0
 while int(n) >= 10:
